@@ -1,0 +1,1 @@
+# Wazuh-File-Integrity-Alerting-with-Discord-Notifications
